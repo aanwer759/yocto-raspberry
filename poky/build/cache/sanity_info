@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/ali/yocto-project/yocto-rasp/poky/build/tmp
+SSTATE_DIR /home/ali/yocto-project/yocto-rasp/poky/build/sstate-cache
+NATIVELSBSTRING ubuntu-22.04
